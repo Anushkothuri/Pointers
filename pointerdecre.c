@@ -1,3 +1,4 @@
+// Pointer arthmetic operation using pointer decrement operation.
 #include<stdio.h>
 int main()
 {
